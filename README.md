@@ -4,9 +4,9 @@
 
 ## Dataset
 
-Bike-sharing systems have become increasingly popular in recent years as a sustainable and affordable means of transportation in urban areas. The Ford GoBike bike-sharing system in San Francisco's Bay Area is one such example, providing a convenient and efficient way to travel around the city. In this project, we will perform exploratory data analysis (EDA) on the usage data of the Ford GoBike system for February 2019.
+Bike-sharing systems have become increasingly popular in recent years as a sustainable and affordable mode of transport in urban areas. The Ford GoBike bike-sharing system in San Francisco's Bay Area is one such example, providing a convenient and efficient way to travel around the city. In this project, we will perform exploratory data analysis (EDA) on the usage data of the Ford GoBike system for February 2019.
 
-The dataset contains information about the duration of the trip ,the user(biker) information and information about the station
+The dataset contains information about the duration of the trip ,the user(biker) and stations informations 
 
 The dataset came in a csv file with over 180000 entries and 16 columns.
 
